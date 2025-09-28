@@ -170,6 +170,19 @@ p {
   z-index: -2;
 }
 
+::selection {
+  background: rgba(255, 255, 255, 0.562);
+  color: black;
+}
+
+#help {
+  position: fixed;
+  bottom: 5px;
+  right: 0;
+  scale: 0.9;
+  z-index: 10000;
+  font-family: font;
+}
     </style>
 </head>
 <body>
@@ -180,7 +193,7 @@ p {
 
 	<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1000;">
 		<center>
-      <h1 style="font-size: 13px; margin-bottom: -15px;">OFFLINE EDITION</h1>
+      <h1 style="font-size: 13px; margin-bottom: -5px;">OFFLINE EDITION</h1>
 			<h1>youtube unblocker</h1>
 			<p>simply paste in a youtube link and press watch</p>
 		</center>
@@ -191,6 +204,12 @@ p {
 			<hr>
 			<iframe id="video" src="https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ?wmode=transparent&amp;iv_load_policy=3&amp;autoplay=0&amp;html5=1&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=0&amp;theme=light" frameborder="0" scrolling="no" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""></iframe>
 		</div>
+
+  <a href="https://github.com/x8rr/ubyt/issues/new">
+		<button id="help">
+			get help
+		</button>
+	</a>
 </body>
 	<script defer>
         //https://www.youtube.com/watch?v=dQw4w9WgXcQ

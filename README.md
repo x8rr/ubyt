@@ -18,7 +18,7 @@ this software is distributed under the gnu gpl v3 license.
  **IF YOU HAVE PAID ANY SUM OF MONEY FOR THIS SOFTWARE, DEMAND A REFUND IMMEDIATELY. THIS IS FREE SOFTWARE, AND SHOULD NOT BE REDISTRIBUTED FOR A COST.**
 
 ## reports
-if you find a bug or problem on the website, feel free to report it via the built in bug report form on the site -OR- by opening a github issue
+if you find a bug or problem on the website, feel free to report it by opening a github issue
 
 ## credits
 https://jcwyt.com/ - js

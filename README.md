@@ -2,7 +2,7 @@
 a simple youtube unblocker (offline build included)
 
 ## extended about
-ubyt stands for "**U**n**B**locked **Y**ou**T**ube" is a website able to run in a single html file that gets any youtube video and unblocks it. this basically takes your administrator's restrictions and fucks them up.
+ubyt stands for "**U**n**B**locked **Y**ou**T**ube" and is a website able to run in a single html file that gets any youtube video and unblocks it. this basically takes your administrator's restrictions and fucks them up.
 
 ## how it works
 ubyt uses the youtube-nocookie website to embed a player. it strips all the weird stuff off the provided url except for the video id, then makes a youtube-nocookie link out of it. in turn, it creates an unblocked player.

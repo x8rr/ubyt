@@ -8,7 +8,7 @@ ubyt stands for "**U**n**B**locked **Y**ou**T**ube" is a website able to run in 
 ubyt uses the youtube-nocookie website to embed a player. it strips all the weird stuff off the provided url except for the video id, then makes a youtube-nocookie link out of it. in turn, it creates an unblocked player.
 
 ## how to use
-first, get a youtube link by searching up the desired video on google or whatever and then copying the link address. for better results, take everything off the url except for the letters after `?id=` and before the next `?` if any. then just paste it in and hit the play button!
+first, get a youtube link by searching up the desired video on google or whatever and then copying the link address. for better results, take everything off the url except for the letters after `?v=` and before the next `?` if any. then just paste it in and hit the play button!
 
 ## offline build
 to use this offline if your admin has blocked the site (https://yt.x8r.dev/), then you can get the offline build from the releases, the file tree, or anywhere else that has posted it.
